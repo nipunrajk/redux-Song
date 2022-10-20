@@ -1,0 +1,5 @@
+- Reducer project structure
+- Combine reducer call
+- Provider, CreateStore, Calling Action creator from component
+- Connect()
+- Configure connect() with mapStateToProps.
